@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<colores>
+<colores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///H:/DAW/Marcas/Tema%203%20Definici%C3%B3n%20de%20esquemas%20y%20vocabularios%20en%20XMLf/schemas/1_3sch.xsd">
   <color>azul marino</color>
   <color>negro</color>
   <color>amarillo</color>
