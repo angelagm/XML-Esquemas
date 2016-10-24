@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<sistemaSolar>
+<sistemaSolar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///E:/Marcas/Git/XML-Esquemas/ejercicio%201/1_8sch.xsd">
   <cuerpo>
     <planeta>Tierra</planeta>
     <satelite>Luna</satelite>
