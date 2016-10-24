@@ -7,4 +7,11 @@
   <cuerpo>
     <asteroide>Ceres</asteroide>
   </cuerpo>
+  <cuerpo>
+  <planeta>Júpiter</planeta>
+  <satelite>Io</satelite>
+  <satelite>Europa</satelite>
+  <satelite>Ganímedes</satelite>  
+  <satelite>Calisto</satelite>
+  </cuerpo>
 </sistemaSolar>
